@@ -1,0 +1,5 @@
+bird 0.0393 121 313 302 493
+diningtable 0.9819 4 -32 388 500
+diningtable 0.8679 6 16 362 283
+person 0.0728 37 -4 185 57
+pottedplant 0.0750 94 287 355 494

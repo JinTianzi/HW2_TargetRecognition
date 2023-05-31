@@ -1,0 +1,7 @@
+boat 0.5599 120 97 393 291
+person 0.8970 119 52 389 303
+pottedplant 0.9993 11 51 161 267
+pottedplant 0.9346 3 84 102 269
+pottedplant 0.6592 124 56 396 318
+pottedplant 0.1879 3 80 51 220
+pottedplant 0.1367 20 56 261 297

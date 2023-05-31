@@ -1,0 +1,6 @@
+person 0.1633 162 108 493 374
+pottedplant 0.9866 154 110 325 362
+pottedplant 0.9813 -5 0 101 143
+pottedplant 0.8188 136 94 453 367
+pottedplant 0.1568 12 0 199 157
+pottedplant 0.0248 158 95 233 273

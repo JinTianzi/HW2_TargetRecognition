@@ -1,0 +1,4 @@
+bottle 0.3468 5 199 90 389
+diningtable 0.9715 -9 0 318 495
+diningtable 0.8554 19 30 315 272
+pottedplant 0.4570 104 220 324 475

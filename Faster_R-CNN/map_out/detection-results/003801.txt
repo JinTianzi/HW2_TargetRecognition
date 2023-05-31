@@ -1,0 +1,5 @@
+bus 0.2526 318 23 456 303
+pottedplant 0.2180 64 -6 301 252
+pottedplant 0.0405 2 -7 120 286
+tvmonitor 0.9864 100 54 283 233
+tvmonitor 0.8788 324 50 451 292

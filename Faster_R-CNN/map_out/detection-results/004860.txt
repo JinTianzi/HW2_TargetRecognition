@@ -1,0 +1,4 @@
+car 0.9993 14 71 370 396
+pottedplant 0.1038 183 -2 370 126
+pottedplant 0.0587 275 6 373 117
+pottedplant 0.0522 -1 5 73 115

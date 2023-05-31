@@ -1,0 +1,77 @@
+Training accuracy for epoch 1 : 0.0946199968457222
+Training accuracy for epoch 2 : 0.1852799952030182
+Training accuracy for epoch 3 : 0.2574999928474426
+Training accuracy for epoch 4 : 0.3241399824619293
+Training accuracy for epoch 5 : 0.37533998489379883
+Training accuracy for epoch 6 : 0.41915997862815857
+Training accuracy for epoch 7 : 0.4545399844646454
+Training accuracy for epoch 8 : 0.48259997367858887
+Training accuracy for epoch 9 : 0.5054799914360046
+Training accuracy for epoch 10 : 0.5319200158119202
+Test accuracy: 51
+Training accuracy for epoch 11 : 0.5532999634742737
+Training accuracy for epoch 12 : 0.5720799565315247
+Training accuracy for epoch 13 : 0.5871999859809875
+Training accuracy for epoch 14 : 0.604919970035553
+Training accuracy for epoch 15 : 0.6162999868392944
+Training accuracy for epoch 16 : 0.6343399882316589
+Training accuracy for epoch 17 : 0.6473000049591064
+Training accuracy for epoch 18 : 0.6600799560546875
+Training accuracy for epoch 19 : 0.6680999994277954
+Training accuracy for epoch 20 : 0.6837799549102783
+Test accuracy: 59
+Training accuracy for epoch 21 : 0.6931599974632263
+Training accuracy for epoch 22 : 0.7037400007247925
+Training accuracy for epoch 23 : 0.7169199585914612
+Training accuracy for epoch 24 : 0.7271599769592285
+Training accuracy for epoch 25 : 0.7345799803733826
+Training accuracy for epoch 26 : 0.7432000041007996
+Training accuracy for epoch 27 : 0.7543799877166748
+Training accuracy for epoch 28 : 0.7661599516868591
+Training accuracy for epoch 29 : 0.7699799537658691
+Training accuracy for epoch 30 : 0.7795599699020386
+Test accuracy: 61
+Training accuracy for epoch 31 : 0.7879199981689453
+Training accuracy for epoch 32 : 0.7920399904251099
+Training accuracy for epoch 33 : 0.7995599508285522
+Training accuracy for epoch 34 : 0.8057199716567993
+Training accuracy for epoch 35 : 0.8145999908447266
+Training accuracy for epoch 36 : 0.8219799995422363
+Training accuracy for epoch 37 : 0.8279799818992615
+Training accuracy for epoch 38 : 0.8352599740028381
+Training accuracy for epoch 39 : 0.8388599753379822
+Training accuracy for epoch 40 : 0.843239963054657
+Test accuracy: 61
+Training accuracy for epoch 41 : 0.8509999513626099
+Training accuracy for epoch 42 : 0.8585999608039856
+Training accuracy for epoch 43 : 0.8603000044822693
+Training accuracy for epoch 44 : 0.8646999597549438
+Training accuracy for epoch 45 : 0.8667199611663818
+Training accuracy for epoch 46 : 0.8751199841499329
+Training accuracy for epoch 47 : 0.8747599720954895
+Training accuracy for epoch 48 : 0.879539966583252
+Training accuracy for epoch 49 : 0.8817799687385559
+Training accuracy for epoch 50 : 0.884880006313324
+Test accuracy: 62
+Training accuracy for epoch 51 : 0.8916800022125244
+Training accuracy for epoch 52 : 0.8948999643325806
+Training accuracy for epoch 53 : 0.8974799513816833
+Training accuracy for epoch 54 : 0.9023999571800232
+Training accuracy for epoch 55 : 0.898859977722168
+Training accuracy for epoch 56 : 0.9015799760818481
+Training accuracy for epoch 57 : 0.9054399728775024
+Training accuracy for epoch 58 : 0.9085800051689148
+Training accuracy for epoch 59 : 0.9126999974250793
+Training accuracy for epoch 60 : 0.9116399884223938
+Test accuracy: 61
+Training accuracy for epoch 61 : 0.9146999716758728
+Training accuracy for epoch 62 : 0.9167799949645996
+Training accuracy for epoch 63 : 0.9168599843978882
+Training accuracy for epoch 64 : 0.9185799956321716
+Training accuracy for epoch 65 : 0.9223600029945374
+Training accuracy for epoch 66 : 0.9246000051498413
+Training accuracy for epoch 67 : 0.9233599901199341
+Training accuracy for epoch 68 : 0.9281999468803406
+Training accuracy for epoch 69 : 0.9279999732971191
+Training accuracy for epoch 70 : 0.92603999376297
+Test accuracy: 61

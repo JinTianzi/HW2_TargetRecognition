@@ -1,0 +1,7 @@
+diningtable 0.0237 -13 201 302 268
+person 0.0679 1 137 49 269
+person 0.0206 0 165 116 272
+pottedplant 0.9225 194 7 359 227
+pottedplant 0.2723 41 57 158 199
+pottedplant 0.2377 205 47 315 198
+pottedplant 0.0482 244 2 358 141

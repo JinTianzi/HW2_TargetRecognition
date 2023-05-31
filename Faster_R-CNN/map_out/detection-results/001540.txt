@@ -1,0 +1,5 @@
+pottedplant 0.6692 212 221 272 299
+pottedplant 0.6544 404 10 498 235
+pottedplant 0.0447 362 188 502 373
+pottedplant 0.0355 391 -1 499 418
+sofa 0.9995 -1 206 168 365
