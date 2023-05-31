@@ -1,16 +1,16 @@
 # HW2_TargetRecognition
 ## 1. CNN模型
-所需环境：pytorch
+* 所需环境：pytorch
 
-采用CIFAR-100数据集，数据存储于data文件夹下
+* 采用CIFAR-100数据集，数据存储于data文件夹下
 
-使用ResNet-18作为baseline，模型训练：resnet18_baseline.py，模型可视化：vis_baseline.py
+* 使用ResNet-18作为baseline，模型训练：resnet18_baseline.py，模型可视化：vis_baseline.py
 
-cutmix方法，模型训练：resnet18_cutmix.py，模型可视化：vis_cutmix.py
+* cutmix方法，模型训练：resnet18_cutmix.py，模型可视化：vis_cutmix.py
 
-cutout方法，模型训练：resnet18_baseline.py，模型可视化：vis_cutout.py
+* cutout方法，模型训练：resnet18_baseline.py，模型可视化：vis_cutout.py
 
-mixup方法，模型训练：resnet18_mixup.py，模型可视化：vis_mixup.py
+* mixup方法，模型训练：resnet18_mixup.py，模型可视化：vis_mixup.py
 
 
 ## 2. Faster R-CNN模型
